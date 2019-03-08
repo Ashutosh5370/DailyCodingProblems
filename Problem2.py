@@ -38,7 +38,8 @@ if __name__ == '__main__':
     bonAppetit(bill, k, b)
 
 
-Anna and Brian are sharing a meal at a restuarant and they agree to split the bill equally. Brian wants to order something that Anna is allergic to though, and they agree that Anna won't pay for that item. Brian gets the check and calculates Anna's portion. You must determine if his calculation is correct.
+'''Anna and Brian are sharing a meal at a restuarant and they agree to split the bill equally. Brian wants to order something that Anna is allergic to though, and they agree that Anna won't pay for that item. Brian gets the check and calculates Anna's portion. You must determine if his calculation is correct.
 
 For example, assume the bill bill = [2,4,6] has the following prices: . Anna declines to eat item  which costs k = bill[2]. If Brian calculates the bill correctly, Anna will pay (2+4)/2. If he includes the cost of b[2] , he will calculate (2+4 +6)/2. In the second case, he should refund  to Anna. 3
 
+'''
